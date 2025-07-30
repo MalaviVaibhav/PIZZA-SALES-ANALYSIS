@@ -24,7 +24,7 @@ aimed at helping decision-makers understand customer behavior, product performan
 
 
   - **Page 2**: Detailed breakdowns for best  and wors top 5 selling pizzas by total order,total revenue and total pizzas sold.
-  - ![Home Page](page 2.png)
+  - ![Home Page](Page 2.png)
 
 
 - Slicers and filters were added for enhanced interactivity.
